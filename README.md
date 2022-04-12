@@ -1,16 +1,11 @@
 # Trandesmens Notebook
 
-A new Flutter project.
+this app alows you to manage the mony of your businnes
 
-## Getting Started
+## Program Specifications
+1-add what you expanse, purchare and earned mony to calculate youre profitabel
+2-show Expanses,Purchares,Earned mony and the Profitabel of single day
+3-View the stored data by slect type of mony or by select specific time
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---- LOGIN PAGE ----
+![login page](https://user-images.githubusercontent.com/96287253/162922203-f4d7ec5a-046e-40b8-94b7-474cc115982b.jpeg)
