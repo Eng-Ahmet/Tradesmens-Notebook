@@ -9,8 +9,7 @@ This app alows you to manage the mony of your businnes
 
 3-View the stored data by slect type of mony or by select specific time
 
-
-    Doanload Link=> https://www.dropbox.com/s/vkjtk5hln4svqgq/Tradesmens%20Notebook.apk?dl=0
+<a href="https://www.dropbox.com/s/vkjtk5hln4svqgq/Tradesmens%20Notebook.apk?dl=0">Download APK</a>
 
 ---- LOGIN PAGE ----
 
