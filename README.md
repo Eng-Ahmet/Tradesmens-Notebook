@@ -1,6 +1,6 @@
 # Trandesmens Notebook    
 
-This app alows you to manage the mony of your businnes
+This app allows you to manage the mony of your businnes
 
 ## Program Specifications
 1-add what you expanse, purchare and earned mony to calculate youre profitabel
